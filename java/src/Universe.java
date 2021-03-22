@@ -3,5 +3,7 @@ public class Universe {
         String chocolateName = "Millenium";
         System.out.println("I need a chocolate " + chocolateName + ".");
         System.out.println("After that I need a tea.");
+        String alcohol = "Vodka";
+        System.out.println("I need a cocktail with " + alcohol);
     }
 }
